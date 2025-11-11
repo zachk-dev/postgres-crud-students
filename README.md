@@ -113,4 +113,4 @@ python app/app.py delete --id 3
 
 
 Youtube video explanation
-https://youtu.be/BzuEbuiTxEw
+https://youtu.be/L0y5oexkjAI
